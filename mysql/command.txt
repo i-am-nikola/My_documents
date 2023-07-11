@@ -1,0 +1,2 @@
+SHOW PROCESSLIST; -> trả về  các connect vào database 
+SHOW VARIABLES LIKE "max_connections";
